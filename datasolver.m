@@ -1,4 +1,5 @@
 %datasolver.m
+%below uses the code for normalizing the images of the NYU-V2 depth dataset with set of functions available in NYU-V2 toolbox.
 
 datasetdir = '/media/saurav/Local Disk/finaldatasetNYUv2';
 homedir = '/media/saurav/Local Disk';
